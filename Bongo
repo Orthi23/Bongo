@@ -252,10 +252,6 @@ https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/D76pkMg/IMG-20240216-215706.jpg",Star Bharat
-
 #EXTINF:-1,&flix HD-Rs 19
 http://103.166.150.12:6500/play/a020/index.m3u8
 #EXTINF:-1,&pictures HD -Rs 19
@@ -382,6 +378,11 @@ http://103.166.150.12:6500/play/a01e/index.m3u8
 http://103.166.150.12:6500/play/a02r/index.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/D76pkMg/IMG-20240216-215706.jpg",Star Bharat
 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
