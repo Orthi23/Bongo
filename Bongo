@@ -185,6 +185,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
 #http://11plus.live/live/starjalsha/index.m3u8
 #http://176.119.29.52/live.ts?channelId=116&uid=5060&deviceMac=00:1A:79:73:9C:A1
@@ -196,9 +198,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #http://103.132.181.118:82/play/a004
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
-#EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
-#http://11plus.live/live/jalshamovies/index.m3u8
-http://176.119.29.52/live.ts?channelId=117&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0q8Jhw8/starjalsha.png"group-title="India Bangla",Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
+
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
@@ -215,8 +218,10 @@ http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1347.m3u8
 #http://208.86.19.13:81/7088.stream/index.m3u8
 #http://11plus.live/live/zee-bangla-cinema/index.m3u8
 http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/TPKM7Mg/IMG-20240126-113602.png" ,Colors Bangla
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-bangla
 
-#EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
+#EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #http://11plus.live/live/colorsbangla/index.m3u8
 #http://103.132.181.118:82/play/a008
@@ -258,8 +263,12 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #http://11plus.live/live/enterr10/index.m3u8
 http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1355.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jddcJsC2/download.jpg", group-title="India Bangla", Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 
 
 
